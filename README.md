@@ -1,5 +1,7 @@
 # Serialization Tests
 
+[Repo](https://github.com/andybrackley/test_serialization)
+
 ## Resources
 
 ### Shared Memory in C++
@@ -54,9 +56,9 @@
 
 ### CapnProto
 
-## [Docs](https://capnproto.org/)
+[Docs](https://capnproto.org/)
 
-## [GitHub](https://github.com/capnproto/capnproto)
+[GitHub](https://github.com/capnproto/capnproto)
 
 ## Comparisons
 

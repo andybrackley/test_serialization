@@ -10,3 +10,7 @@ compile_commands.json
 CTestTestfile.cmake
 _deps
 CMakeUserPresets.json
+cpp/build
+cpp/src/main.exe
+cpp/src/main.ilk
+cpp/src/main.pdb
